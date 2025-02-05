@@ -4,7 +4,7 @@
 ## Overview
 This project provides an in-depth analysis of a dataset on used car sales, exploring the key factors influencing resale prices. It includes data preprocessing, feature engineering, and comparative performance evaluation of multiple regression models. The final section presents a trained regression model, selected based on performance metrics, for predicting resale prices.
 
-**Link to Jupyter Notebook:**
+**Link to Jupyter Notebook:** https://github.com/dhanyavasan/dataDrivenAnalysisOfUsedCars/blob/main/Practical_Application_II.ipynb
 
 ## Key Insights:
 1. **Popular Brands:** Among all brands, **Ford and Chevrolet** have the highest resale frequency, indicating strong market demand.
